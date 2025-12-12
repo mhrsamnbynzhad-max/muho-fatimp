@@ -2,7 +2,7 @@
 using namespace std;
  int main ()
  {
-
+cout <<"hello world";
 
 
 
@@ -11,6 +11,7 @@ using namespace std;
    cout<<"ฅ^•ﻌ•^ฅ";
 
       return 0;
+
 
 
  }
